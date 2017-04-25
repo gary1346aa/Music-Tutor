@@ -8,7 +8,7 @@ import essentia.streaming
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+ghgh
 # we start by instantiating the audio loader:
 loader1 = essentia.standard.MonoLoader(filename='/Users/tsaiyunyun/Desktop/scomb1.1.wav')
 loader2 = essentia.standard.MonoLoader(filename='/Users/tsaiyunyun/Desktop/scomb2.1.wav')
